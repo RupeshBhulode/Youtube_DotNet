@@ -72,6 +72,8 @@ TubeLens is a web application that helps you **analyze YouTube comments with eas
 
 ---
 ![Screenshot (221)](https://github.com/user-attachments/assets/ca1c789a-9cb0-4908-a714-76d694d42555)
+<img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/de320e00-2890-4a80-b18b-3805c80be542" />
+
 
 ## 🎯 Features
 
