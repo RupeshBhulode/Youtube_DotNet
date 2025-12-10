@@ -71,7 +71,7 @@
 TubeLens is a web application that helps you **analyze YouTube comments with ease**. It classifies comments into categories such as **Hate Speech, Requests, Questions, and Feedback**, giving content creators and analysts clear insights into audience engagement.
 
 ---
-![Screenshot (221)](https://github.com/user-attachments/assets/ca1c789a-9cb0-4908-a714-76d694d42555)
+
 <img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/de320e00-2890-4a80-b18b-3805c80be542" />
 
 
